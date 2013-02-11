@@ -2,5 +2,6 @@
 /.project
 /.settings
 /.springBeans
+/.sonar
 /target
 /bin

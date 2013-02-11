@@ -1,4 +1,4 @@
-<project name="SonarBlogBeanoh" default="build.project">
+<project name="SonarBlogBeanoh" default="sonar">
 	<property name="ant.build.javac.target" value="1.6" />
 	<property name="ant.build.javac.source" value="1.6" />
 	
